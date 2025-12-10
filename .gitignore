@@ -1,0 +1,6 @@
+.venv
+.vscode
+/venv
+.env
+google-credentials.json
+tmp_files/
